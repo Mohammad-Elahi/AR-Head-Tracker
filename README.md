@@ -1,4 +1,4 @@
-# AR_HeadTracker
+# AR Head Tracker
 AR Head Tracking App
 
 # Demo
